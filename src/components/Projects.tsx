@@ -38,7 +38,14 @@ const Projects = () => {
       title: "LogiHub",
       description:
         "A comprehensive B2B logistics management platform serving 20+ organizations, processing over 20,000 orders daily. Automates order routing between e-commerce marketplaces and delivery agencies. Features real-time courier allocation, complex financial dashboards (revenue & commissions), automated tracking, CSV management, and bulk label generation.",
-      tech: ["Next.js", "React Query", "Zustand", "Formik"],
+      tech: [
+        "Next.js",
+        "Node.js",
+        "MongoDB",
+        "React Query",
+        "Zustand",
+        "Formik",
+      ],
       stats: "20K+ Daily Orders",
       links: {
         demo: "https://logihub-xi.vercel.app/",

@@ -31,7 +31,7 @@ const Footer = () => {
               <Github size={20} />
             </a>
             <a
-              href="https://linkedin.com/in/utkarsh-pancholi"
+              href="https://www.linkedin.com/in/utkarsh-pancholi-7895261a9/"
               target="_blank"
               rel="noopener noreferrer"
               className="p-3 border-2 border-brand-bg hover:bg-[#0A66C2] hover:border-[#0A66C2] transition-colors text-white"

@@ -68,7 +68,7 @@ const Header = () => {
               <Github size={20} />
             </a>
             <a
-              href="https://linkedin.com/in/utkarsh-pancholi"
+              href="https://www.linkedin.com/in/utkarsh-pancholi-7895261a9/"
               target="_blank"
               rel="noopener noreferrer"
               className="p-2 brutal-border brutal-shadow-hover bg-brand-accent text-white"
@@ -117,7 +117,7 @@ const Header = () => {
                 <Github size={24} />
               </a>
               <a
-                href="https://linkedin.com/in/utkarsh-pancholi"
+                href="https://www.linkedin.com/in/utkarsh-pancholi-7895261a9"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="p-3 brutal-border brutal-shadow bg-brand-accent text-white"

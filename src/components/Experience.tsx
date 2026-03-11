@@ -33,7 +33,7 @@ const Experience = () => {
         </>,
         <>
           <strong>Leadership & Growth:</strong> Progressed from Junior Engineer
-          to Lead Frontend Engineer over 2+ years. Currently architecting the
+          to Lead Frontend Engineer over 3+ years. Currently architecting the
           global transition of the platform while managing a dedicated team of
           frontend developers.
         </>,
