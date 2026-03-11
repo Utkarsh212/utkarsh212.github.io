@@ -3,7 +3,7 @@ import { Briefcase } from "lucide-react";
 const Experience = () => {
   const experiences = [
     {
-      role: "Senior Software Engineer",
+      role: "Software Engineer",
       company: "Celebal Technologies Pvt. Ltd.",
       duration: "Jan 2023 - Present",
       description: [

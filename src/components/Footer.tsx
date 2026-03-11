@@ -10,7 +10,7 @@ const Footer = () => {
           </h2>
           <p className="mt-2 text-brand-bg/80 text-sm max-w-sm">
             Architecting scalable SaaS applications and building AI-powered
-            tools since 2021.
+            tools.
           </p>
         </div>
 
